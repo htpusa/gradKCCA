@@ -14,4 +14,5 @@ if degree > 0
     K = (K + r).^degree;
 end
 
+
 end
